@@ -2,7 +2,7 @@
 A Python program for using the GitHub search API
 
 # End result should look like this
-````
+
 ```
 -> freeCodeCamp is a JavaScript repo with 298046 stars.
 -> bootstrap is a JavaScript repo with 131403 stars.
@@ -15,4 +15,4 @@ A Python program for using the GitHub search API
 -> awesome-python is a Python repo with 63693 stars.
 ... and more results
 ```
-````
+
